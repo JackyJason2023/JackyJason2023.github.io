@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Jason 技术与生活pro
+weibo_username: 次元代码咖啡馆
 zhihu_username: 次元代码咖啡馆
 github_username: JackyJason2023
 twitter_username: @Cooljie2001
@@ -91,12 +91,4 @@ page-mathjax: false
 # Friends
 friends:
   [
-    # { title: "乱序（Midare）", href: "http://mida.re/" },
-    # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    # { title: "Kun Qian", href: "http://kunq.me" },
-    # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    # { title: "SmdCn", href: "http://blog.smdcn.net" },
-    # { title: "JiyinYiyong", href: "http://tiye.me/" },
-    # { title: "DHong Say", href: "http://dhong.co" },
-    # { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
